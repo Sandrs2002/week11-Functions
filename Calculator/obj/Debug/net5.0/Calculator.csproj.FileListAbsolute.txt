@@ -1,0 +1,15 @@
+/Users/aleks/Projects/Functions/Calculator/bin/Debug/net5.0/Calculator.deps.json
+/Users/aleks/Projects/Functions/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.json
+/Users/aleks/Projects/Functions/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.dev.json
+/Users/aleks/Projects/Functions/Calculator/bin/Debug/net5.0/Calculator.dll
+/Users/aleks/Projects/Functions/Calculator/bin/Debug/net5.0/ref/Calculator.dll
+/Users/aleks/Projects/Functions/Calculator/bin/Debug/net5.0/Calculator.pdb
+/Users/aleks/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.csproj.AssemblyReference.cache
+/Users/aleks/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfoInputs.cache
+/Users/aleks/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfo.cs
+/Users/aleks/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.dll
+/Users/aleks/Projects/Functions/Calculator/obj/Debug/net5.0/ref/Calculator.dll
+/Users/aleks/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.pdb
+/Users/aleks/Projects/Functions/Calculator/obj/Debug/net5.0/Calculator.genruntimeconfig.cache

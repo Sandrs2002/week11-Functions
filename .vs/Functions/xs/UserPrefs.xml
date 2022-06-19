@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{15EEA147-C8A3-4DA3-BC14-A38F6916E819}|Default">
+  <MonoDevelop.Ide.ItemProperties.Functions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CelsiusToFahrenhite FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.FunctionsReturn FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CelsiusToFahrenhite/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="11" Column="25" />
+      <File FileName="Calculator/Program.cs" Line="34" Column="50" />
+      <File FileName="FunctionsReturn/Program.cs" Line="77" Column="10" />
+      <File FileName="CelsiusToFahrenhite/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Functions" expanded="True">
+            <Node name="Calculator" expanded="True" />
+            <Node name="CelsiusToFahrenhite" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Functions" expanded="True" />
+            <Node name="FunctionsReturn" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

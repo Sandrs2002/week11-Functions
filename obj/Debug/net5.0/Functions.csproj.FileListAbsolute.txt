@@ -1,0 +1,15 @@
+/Users/aleks/Projects/Functions/bin/Debug/net5.0/Functions.deps.json
+/Users/aleks/Projects/Functions/bin/Debug/net5.0/Functions.runtimeconfig.json
+/Users/aleks/Projects/Functions/bin/Debug/net5.0/Functions.runtimeconfig.dev.json
+/Users/aleks/Projects/Functions/bin/Debug/net5.0/Functions.dll
+/Users/aleks/Projects/Functions/bin/Debug/net5.0/ref/Functions.dll
+/Users/aleks/Projects/Functions/bin/Debug/net5.0/Functions.pdb
+/Users/aleks/Projects/Functions/obj/Debug/net5.0/Functions.csproj.AssemblyReference.cache
+/Users/aleks/Projects/Functions/obj/Debug/net5.0/Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/Functions/obj/Debug/net5.0/Functions.AssemblyInfoInputs.cache
+/Users/aleks/Projects/Functions/obj/Debug/net5.0/Functions.AssemblyInfo.cs
+/Users/aleks/Projects/Functions/obj/Debug/net5.0/Functions.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/Functions/obj/Debug/net5.0/Functions.dll
+/Users/aleks/Projects/Functions/obj/Debug/net5.0/ref/Functions.dll
+/Users/aleks/Projects/Functions/obj/Debug/net5.0/Functions.pdb
+/Users/aleks/Projects/Functions/obj/Debug/net5.0/Functions.genruntimeconfig.cache

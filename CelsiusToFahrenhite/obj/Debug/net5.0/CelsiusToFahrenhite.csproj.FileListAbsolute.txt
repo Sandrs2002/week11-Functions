@@ -1,0 +1,15 @@
+/Users/aleks/Projects/Functions/CelsiusToFahrenhite/bin/Debug/net5.0/CelsiusToFahrenhite.deps.json
+/Users/aleks/Projects/Functions/CelsiusToFahrenhite/bin/Debug/net5.0/CelsiusToFahrenhite.runtimeconfig.json
+/Users/aleks/Projects/Functions/CelsiusToFahrenhite/bin/Debug/net5.0/CelsiusToFahrenhite.runtimeconfig.dev.json
+/Users/aleks/Projects/Functions/CelsiusToFahrenhite/bin/Debug/net5.0/CelsiusToFahrenhite.dll
+/Users/aleks/Projects/Functions/CelsiusToFahrenhite/bin/Debug/net5.0/ref/CelsiusToFahrenhite.dll
+/Users/aleks/Projects/Functions/CelsiusToFahrenhite/bin/Debug/net5.0/CelsiusToFahrenhite.pdb
+/Users/aleks/Projects/Functions/CelsiusToFahrenhite/obj/Debug/net5.0/CelsiusToFahrenhite.csproj.AssemblyReference.cache
+/Users/aleks/Projects/Functions/CelsiusToFahrenhite/obj/Debug/net5.0/CelsiusToFahrenhite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/Functions/CelsiusToFahrenhite/obj/Debug/net5.0/CelsiusToFahrenhite.AssemblyInfoInputs.cache
+/Users/aleks/Projects/Functions/CelsiusToFahrenhite/obj/Debug/net5.0/CelsiusToFahrenhite.AssemblyInfo.cs
+/Users/aleks/Projects/Functions/CelsiusToFahrenhite/obj/Debug/net5.0/CelsiusToFahrenhite.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/Functions/CelsiusToFahrenhite/obj/Debug/net5.0/CelsiusToFahrenhite.dll
+/Users/aleks/Projects/Functions/CelsiusToFahrenhite/obj/Debug/net5.0/ref/CelsiusToFahrenhite.dll
+/Users/aleks/Projects/Functions/CelsiusToFahrenhite/obj/Debug/net5.0/CelsiusToFahrenhite.pdb
+/Users/aleks/Projects/Functions/CelsiusToFahrenhite/obj/Debug/net5.0/CelsiusToFahrenhite.genruntimeconfig.cache
